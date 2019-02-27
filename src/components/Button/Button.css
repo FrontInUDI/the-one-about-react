@@ -1,0 +1,24 @@
+button {
+    padding: 10px;
+    min-width: 150px;
+    border-radius: 10px;
+    margin: 10px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.blue {
+    background-color: #69a1dc;
+}
+
+.blue:hover {
+    background-color: #3f7ec1;
+}
+
+.gray {
+    background-color: #ccd4dc;
+}
+
+.gray:hover {
+    background-color: #b5c3d2;
+}
